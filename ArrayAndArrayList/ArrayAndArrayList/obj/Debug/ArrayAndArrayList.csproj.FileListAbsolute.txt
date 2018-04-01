@@ -1,0 +1,6 @@
+c:\users\enol\documents\repo\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\ArrayAndArrayList.exe.config
+c:\users\enol\documents\repo\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\ArrayAndArrayList.exe
+c:\users\enol\documents\repo\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\ArrayAndArrayList.pdb
+c:\users\enol\documents\repo\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\ArrayAndArrayList.csprojResolveAssemblyReference.cache
+c:\users\enol\documents\repo\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\ArrayAndArrayList.exe
+c:\users\enol\documents\repo\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\ArrayAndArrayList.pdb
